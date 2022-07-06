@@ -5,7 +5,7 @@ Here are all the links to my pages where I have my programming portfolios, links
 
 # Java Programming
 
-[Link to what I have worked on with Java in school]()
+[Link to what I have worked on with Java in school]
 
 # C Programming
 
@@ -13,10 +13,10 @@ Here are all the links to my pages where I have my programming portfolios, links
 
 # Python Programming
 
-[Link to Personal Project, Discord Bot (Doggo) - In progress]()
+[Link to Personal Project Repo, Discord Bot (Doggo) - In progress](https://github.com/cathyiic/doggo)
 
-[Link to what I have worked on with Python in school]()
+[Link to what I have worked on with Python in school]
 
 # Unix Application and Files
 
-[Links to what I have worked on with Unix in school]()
+[Links to what I have worked on with Unix in school](https://cathyiic.github.io/cse15l-labreports/)
