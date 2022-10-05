@@ -1,4 +1,4 @@
-# Hi! I am Catherine**!!
+# **Hi! I am Catherine**!!
 
 Here are all the links to my pages where I have my programming portfolios, links, and programs that I have/are working on.
 
