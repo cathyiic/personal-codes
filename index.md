@@ -11,6 +11,9 @@ Here are all the links to my pages where I have my programming portfolios, links
 
 [Links to what I have worked on with C in school](https://cathyiic.github.io/c36/)
 
+# C++ Programming 
+[Links to what I have worked on with C++ in school()
+
 # Python Programming
 
 [Link to Personal Project Repo, Discord Bot (Doggo) - In progress](https://github.com/cathyiic/doggo)
