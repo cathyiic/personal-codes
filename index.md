@@ -12,7 +12,7 @@ Here are all the links to my pages where I have my programming portfolios, links
 [Links to what I have worked on with C in school](https://cathyiic.github.io/c36/)
 
 # C++ Programming 
-[Links to what I have worked on with C++ in school()
+[Links to what I have worked on with C++ in school(https://github.com/cathyiic/data-structures)
 
 # Python Programming
 
